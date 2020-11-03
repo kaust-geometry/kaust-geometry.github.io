@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAUST/CDF</title>
+    <link>/authors/victor-ceballos-inza/</link>
+      <atom:link href="/authors/victor-ceballos-inza/index.xml" rel="self" type="application/rss+xml" />
+    <description>KAUST/CDF</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Helmut Pottmann©2018-2020</copyright>
+    <image>
+      <url>/images/logo_hu3e023e2793281438a2bff698887bf39c_39344_300x300_fit_lanczos_2.png</url>
+      <title>KAUST/CDF</title>
+      <link>/authors/victor-ceballos-inza/</link>
+    </image>
+    
+  </channel>
+</rss>
