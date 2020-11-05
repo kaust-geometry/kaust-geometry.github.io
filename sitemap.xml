@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>/authors/hui-wang-//</loc>
+    <loc>/authors/hui-wang-%5C/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +178,7 @@
   </url>
   
   <url>
-    <loc>/authors/caigui-jiang-//</loc>
+    <loc>/authors/caigui-jiang-%5C/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,7 +188,7 @@
   </url>
   
   <url>
-    <loc>/authors/chi-han-peng/</loc>
+    <loc>/authors/chi-han-peng%5C/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -380,6 +380,11 @@
   <url>
     <loc>/publication/2014_sgp/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chi-han-peng/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
